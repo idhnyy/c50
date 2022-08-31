@@ -1,0 +1,38 @@
+h1{
+    color:crimson;
+
+}
+
+h2{
+    color:rgb(64, 0, 255);
+    text-align: center;
+}
+
+h3{
+    color:green;
+}
+
+*{
+    border:solid;
+}
+
+.Cabecalho{
+ background-color:paleturquoise;
+ display: flex;
+ justify-content:space-between;
+}
+
+.ProjetosDeJogos{
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: space-evenly;
+}
+
+.Redes{
+ display: flex;
+ justify-content: flex-end;
+}
+
+p{
+    text-align: center;
+}
